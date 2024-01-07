@@ -2,7 +2,7 @@
 [![codecov](https://codecov.io/gh/go-corelibs/notify/graph/badge.svg?token=7mk9JhvJRO)](https://codecov.io/gh/go-corelibs/notify)
 [![Go Report Card](https://goreportcard.com/badge/github.com/go-corelibs/notify)](https://goreportcard.com/report/github.com/go-corelibs/notify)
 
-# go-corelibs/notify - level managed stdout/stderr notifier
+# notify - level managed stdout/stderr notifier
 
 notify is a package for managing outputting various levels of informative
 notices to STDOUT and STDERR.
